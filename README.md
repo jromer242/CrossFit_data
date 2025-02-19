@@ -1,5 +1,3 @@
-# CrossFit_data
-
 # Divisions
 ## Each division is split by gender. You can read them below as Men, Women.
 
