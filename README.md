@@ -19,9 +19,12 @@
 - 38, 39 = 65+
 
 ## Adaptive
+
 **Upper Extremity**
 - 20, 21
+  
 **Lower Extremity**
 - 22, 23
+  
 **Multi Extremity**
 - 24, 25
