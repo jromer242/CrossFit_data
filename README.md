@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrossFit Data Project
 
 
@@ -25,7 +24,6 @@ before_2021 = f'https://games.crossfit.com/competitions/api/v1/competitions/game
 
 after_2021 = f'https://c3po.crossfit.com/api/competitions/v2/competitions/games/{year}/leaderboards'
 ```
-=======
 # Divisions
 ## Each division is split by gender. You can read them below as Men, Women.
 
@@ -56,4 +54,3 @@ after_2021 = f'https://c3po.crossfit.com/api/competitions/v2/competitions/games/
   
 **Multi Extremity**
 - 24, 25
->>>>>>> 2e9db660deda89ded847f7d909aecd17b2192028
